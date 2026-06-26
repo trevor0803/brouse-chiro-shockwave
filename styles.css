@@ -155,10 +155,6 @@ img{max-width:100%;display:block}
 .conditions li::before{content:"›";color:var(--coral);font-weight:700;font-size:1.1rem}
 .section__cta{text-align:center;margin-top:44px}
 
-/* small neuropathy note above the form */
-.offercard__note{display:flex;align-items:center;gap:10px;padding:12px 22px;font-size:.84rem;font-weight:600;color:var(--teal-dk);background:rgba(14,124,123,.08);border-bottom:1px solid var(--line)}
-.offercard__check{flex:none;width:20px;height:20px;border-radius:50%;background:var(--teal);color:#fff;font-size:.72rem;display:grid;place-items:center}
-
 /* ---- reviews ---- */
 .reviews{text-align:center}
 .reviews__eyebrow{color:var(--gold);letter-spacing:.08em;font-size:.9rem}
