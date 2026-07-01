@@ -160,7 +160,7 @@ img{max-width:100%;display:block}
 .reviews{text-align:center}
 .reviews__eyebrow{color:var(--gold);letter-spacing:.08em;font-size:.9rem}
 .reviews__title{margin-bottom:44px}
-.reviews__grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;text-align:left}
+.reviews__grid{display:grid;grid-template-columns:repeat(2,1fr);gap:24px;text-align:left;max-width:820px;margin:0 auto}
 .reviewcard{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:28px 26px;display:flex;flex-direction:column}
 .reviewcard__stars{color:var(--gold);font-size:1.05rem;letter-spacing:.05em;margin-bottom:14px}
 .reviewcard__text{color:var(--ink-soft);font-size:.98rem;line-height:1.6;margin-bottom:18px;flex:1}
